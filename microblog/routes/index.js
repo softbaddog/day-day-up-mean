@@ -1,8 +1,7 @@
-var express = require('express');
-var router = express.Router();
+var router = require('express').Router();
 var util = require('util');
-var User = require('../models/user');
 var crypto = require('crypto');
+var User = require('../models/user');
 var Post = require('../models/post');
 
 router.get('/', function(req, res, next) {
@@ -120,23 +119,5 @@ router.get('/u/:user', function(req, res) {
 		});
 	});
 });
-
-router.get('/list', function(req, res) {
-	res.render('list', {
-		title: 'List',
-		items: [1991, 'byvoid', 'express', 'Node.js']
-	});
-});
-
-router.get('/helper', function(req, res) {
-	res.locals.headers = req.headers;
-	res.locals.inspect = function(obj) {
-		return util.inspect(obj, true);
-	};
-	res.render('helper', {
-		title: 'Helpers'
-	});
-});
-
 
 module.exports = router;

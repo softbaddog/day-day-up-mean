@@ -11,9 +11,7 @@ var MongoStore = require('connect-mongo')(session);
 var flash = require('connect-flash');
 var settings = require('./settings');
 
-var index = require('./routes/index');
-var users = require('./routes/users');
-var hello = require('./routes/hello');
+var routes = require('./routes/index');
 
 var app = express();
 
@@ -56,9 +54,7 @@ app.use(function(req, res, next) {
   next();
 });
 
-app.use('/', index);
-app.use('/u', users);
-app.use('/hello', hello);
+app.use('/', routes);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
