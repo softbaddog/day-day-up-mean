@@ -1,0 +1,12 @@
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  var socket = io('/');
+  socket.on('connect', function () {
+    socket.send('hi');
+    socket.emit('message', 'world');
+
+    socket.on('message', function (msg) {
+      console.log(msg);
+    });
+  });
+</script>
