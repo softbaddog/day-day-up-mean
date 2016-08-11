@@ -3,6 +3,7 @@ exports.initialize = function(server) {
 	io.on('connection', function(socket) {
 		socket.on('message', function(msg) {
 			console.log('message:' + msg);
+			socket.send(msg);
 		});
 		socket.on('hello', function(data) {
 			console.log('hello:' + data);

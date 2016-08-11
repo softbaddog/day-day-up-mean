@@ -23,6 +23,9 @@ var server = http.createServer(app);
 
 require('../routes/sockets.js').initialize(server);
 
+setTimeout(function() {
+  require('../routes/sockets-cli.js').initialize();
+}, 3000);
 
 /**
  * Listen on provided port, on all network interfaces.
