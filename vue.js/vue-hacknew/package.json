@@ -1,0 +1,21 @@
+{
+  "name": "hacknew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.0.0",
+    "egg-view-nunjucks": "^2.1.4"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.6",
+    "egg-mock": "^3.13.1"
+  }
+}

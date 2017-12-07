@@ -1,0 +1,244 @@
+{
+  "keys": "D:\\repo\\vue-webpack\\hacknew\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "D:\\repo\\vue-webpack\\hacknew\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "D:\\repo\\vue-webpack\\hacknew\\config\\config.default.js"
+    },
+    "root": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view@2.0.0@egg-view\\config\\config.default.js",
+    "cache": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view@2.0.0@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view@2.0.0@egg-view\\config\\config.default.js"
+  },
+  "news": {
+    "pageSize": "D:\\repo\\vue-webpack\\hacknew\\config\\config.default.js",
+    "serverUrl": "D:\\repo\\vue-webpack\\hacknew\\config\\config.default.js"
+  },
+  "robot": {
+    "ua": "D:\\repo\\vue-webpack\\hacknew\\config\\config.local.js"
+  },
+  "session": {
+    "maxAge": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-session@3.0.0@egg-session\\config\\config.default.js",
+    "key": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-session@3.0.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-session@3.0.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-session@3.0.0@egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "useSession": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "headerName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "queryName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "value": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "value": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-security@2.0.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-onerror@2.0.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-onerror@2.0.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-watcher@3.0.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-watcher@3.0.0@egg-watcher\\config\\config.default.js",
+      "development": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-watcher@3.0.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "files": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-multipart@2.0.0@egg-multipart\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-development@2.0.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-development@2.0.0@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-development@2.0.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-development@2.0.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-logrotator@3.0.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-static@2.0.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-static@2.0.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-static@2.0.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-static@2.0.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-static@2.0.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-static@2.0.0@egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view-nunjucks@2.1.4@egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view-nunjucks@2.1.4@egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view-nunjucks@2.1.4@egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view-nunjucks@2.1.4@egg-view-nunjucks\\config\\config.default.js",
+    "cache": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg-view-nunjucks@2.1.4@egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "name": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "proxy": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "version": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "description": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "main": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "test": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "cov": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    },
+    "author": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "license": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "egg-view-nunjucks": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "egg-mock": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "HOME": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "rundir": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "notFound": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "sitefile": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "middlewares": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "httpClient": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "encoding": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "formLimit": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "strict": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "depth": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "encoding": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "env": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "level": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "outputJSON": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "buffer": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "appLogName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "coreLogName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "agentLogName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "errorLogName": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    }
+  },
+  "coreMiddleware": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "port": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js",
+      "hostname": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "D:\\repo\\vue-webpack\\hacknew\\node_modules\\_egg@2.0.0@egg\\config\\config.default.js"
+  }
+}
